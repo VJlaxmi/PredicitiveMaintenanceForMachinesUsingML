@@ -16,4 +16,6 @@ Common data sources for predictive maintenance problems are :
 * **Machine features:** The features of a machine, e.g. engine size, make and model, location.
 * **Operator features:** The features of the operator, e.g. gender, past experience
 The data for this example comes from 4 different sources which are real-time telemetry data collected from machines, error messages, historical maintenance records that include failures and machine information such as type and age.
+
+To get the telemetry dataset access the below link
 https://drive.google.com/file/d/1ipnb6ZqscqHNOU6tqfwKj4zaIvOKtt_1/view?usp=sharing
